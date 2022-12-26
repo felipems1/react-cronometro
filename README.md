@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Simples cronômetro, mostrando o resultado do último tempo cronometrado.
+Cronômetro.
 
 ---
 
